@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     siteName: "Free and Open-Source SaaS Landing Page",
     images: [
       {
-        url: "https://saas-landing-bice.vercel.app/og-image.jpg",
+        url: "https://saas-landing-bice.vercel.app/og-image.jpeg",
         width: 1200,
         height: 630,
         alt: "Free and Open-Source SaaS Landing Page",
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
       "Free, open-source SaaS landing page template to help you quickly build a beautiful website for your SaaS product.",
     images: [
       {
-        url: "https://saas-landing-bice.vercel.app/og-image.jpg",
+        url: "https://saas-landing-bice.vercel.app/og-image.jpeg",
         width: 1200,
         height: 630,
         alt: "Free and Open-Source SaaS Landing Page",
